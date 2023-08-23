@@ -1,3 +1,1 @@
-This is my readme file
-
-cat README.md
+my first readme
